@@ -1,0 +1,18 @@
+## Blog/Site Info
+wordpressUsername: fix
+wordpressPassword: fix
+wordpressEmail: fixpetrovich@gmail.com
+wordpressFirstName: Fix
+wordpressLastName: the Shark
+wordpressBlogName: Fix's Blog!
+
+## Database Settings
+externalDatabase:
+  host: 192.168.0.120
+  user: wordpress_user
+  password: password
+  database: wordpress
+
+## Disabling MariaDB
+mariadb:
+  enabled: false
