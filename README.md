@@ -41,4 +41,4 @@ Manually start pipeline
 
 Links
 ### [Wordpress](https://github.com/FIXPETROVICH/Project-fix/tree/master)
-### [Jenkinsfile](https://github.com/FIXPETROVICH/Jenkins-project)
+### [Jenkinsfile](https://github.com/FIXPETROVICH/Jenkins_project)
