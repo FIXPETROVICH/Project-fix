@@ -40,5 +40,5 @@ How does rollback work
 Manually start pipeline
 
 Links
-### [Wordpress](https://github.com/FIXPETROVICH/Project-fix)
-### [Jenkinsfile](https://github.com/FIXPETROVICH/Project-fix)
+### [Wordpress](https://github.com/FIXPETROVICH/Project-fix/tree/master)
+### [Jenkinsfile](https://github.com/FIXPETROVICH/Project-fix/tree/master/Jenkinsfile)
